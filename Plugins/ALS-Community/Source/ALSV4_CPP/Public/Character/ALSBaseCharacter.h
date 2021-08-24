@@ -649,4 +649,6 @@ protected:
 
 private:
 	UALSDebugComponent* DebugComponent = nullptr;
+
+
 };
